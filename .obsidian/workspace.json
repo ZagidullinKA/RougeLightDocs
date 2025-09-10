@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rogur light/Справочники/Справочник модификаторов стрельбы.md",
+                "file": "rogur light/Персонажи/Игровой персонаж.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Справочник модификаторов стрельбы"
+              "title": "Игровой персонаж"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rogur light/Справочники/Справочник модификаторов стрельбы.md",
+                "file": "rogur light/Наблюдатель/Первичная генерации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Справочник модификаторов стрельбы"
+              "title": "Первичная генерации"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,20 +198,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7472545b85af1c00",
+  "active": "50b8471fef7b6062",
   "lastOpenFiles": [
+    "rogur light/Персонажи/Персонажи.md",
+    "rogur light/Наблюдатель/Первичная генерации.md",
+    "rogur light/Персонажи/Игровой персонаж.md",
     "rogur light/Наблюдатель/Основная генерация.md",
+    "rogur light/Справочники/Справочник модификаторов стрельбы.md",
+    "rogur light/Наблюдатель/Квестодатель.md",
+    "rogur light/Наблюдатель/Интерфейс.md",
     "rogur light/Наблюдатель/Генерации.md",
     "rogur light/Процессы/Выпадение Дропа.md",
     "rogur light/Процессы/Подбор Дропа.md",
-    "rogur light/Наблюдатель/Квестодатель.md",
-    "rogur light/Персонажи/Персонажи.md",
     "Untitled.md",
-    "rogur light/Справочники/Справочник модификаторов стрельбы.md",
-    "rogur light/Наблюдатель/Первичная генерации.md",
     "rogur light/Наблюдатель/Наблюдатель.md",
     "rogur light/Наблюдатель/Таймер.md",
-    "rogur light/Персонажи/Игровой персонаж.md",
     "rogur light/Процессы/Генерация выстрела.md",
     "rogur light/Персонажи/Без названия.md",
     "rogur light/Энити/Дроп.md",
