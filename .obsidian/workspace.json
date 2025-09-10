@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "50b8471fef7b6062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rogur light/Персонажи/Персонажи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Персонажи"
+            }
+          },
+          {
             "id": "7472545b85af1c00",
             "type": "leaf",
             "state": {
@@ -34,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Игровой персонаж"
             }
-          },
-          {
-            "id": "50b8471fef7b6062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rogur light/Наблюдатель/Первичная генерации.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Первичная генерации"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,9 +200,9 @@
   },
   "active": "50b8471fef7b6062",
   "lastOpenFiles": [
+    "rogur light/Персонажи/Игровой персонаж.md",
     "rogur light/Персонажи/Персонажи.md",
     "rogur light/Наблюдатель/Первичная генерации.md",
-    "rogur light/Персонажи/Игровой персонаж.md",
     "rogur light/Наблюдатель/Основная генерация.md",
     "rogur light/Справочники/Справочник модификаторов стрельбы.md",
     "rogur light/Наблюдатель/Квестодатель.md",
